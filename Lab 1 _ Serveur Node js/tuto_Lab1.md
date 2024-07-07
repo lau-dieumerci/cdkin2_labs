@@ -88,4 +88,4 @@ node /home/lau/my_site/index.js >> /home/lau/my_site/log.txt 2>&1
 
 ### Conclusion
 
-L'ensemble de ces scripts permettent de mettre en place un serveur Node.js, de créer les fichiers nécessaires pour un site web, et de configurer un système de journalisation des activités du serveur. Vous pouvez maintenant adapter et développer votre site en ajoutant du code à `index.js` et en utilisant les fichiers de journalisation pour suivre les activités et les erreurs du serveur.
+L'ensemble de ces scripts permettent de mettre en place un serveur Node.js, de créer les fichiers nécessaires pour un site web, et de configurer un système de journalisation des activités du serveur.
